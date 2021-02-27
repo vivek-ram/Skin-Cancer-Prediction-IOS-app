@@ -13,6 +13,7 @@
 		E40E1F9625E80FFE00958242 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9425E80FFE00958242 /* Main.storyboard */; };
 		E40E1F9825E80FFF00958242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9725E80FFF00958242 /* Assets.xcassets */; };
 		E40E1F9B25E80FFF00958242 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9925E80FFF00958242 /* LaunchScreen.storyboard */; };
+		E40E1FA525E85BA600958242 /* networkin.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E1FA425E85BA600958242 /* networkin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E40E1F9725E80FFF00958242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E40E1F9A25E80FFF00958242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E40E1F9C25E80FFF00958242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E40E1FA425E85BA600958242 /* networkin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = networkin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E40E1F9725E80FFF00958242 /* Assets.xcassets */,
 				E40E1F9925E80FFF00958242 /* LaunchScreen.storyboard */,
 				E40E1F9C25E80FFF00958242 /* Info.plist */,
+				E40E1FA425E85BA600958242 /* networkin.swift */,
 			);
 			path = SkinCancer;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				E40E1F9325E80FFE00958242 /* ViewController.swift in Sources */,
 				E40E1F8F25E80FFE00958242 /* AppDelegate.swift in Sources */,
 				E40E1F9125E80FFE00958242 /* SceneDelegate.swift in Sources */,
+				E40E1FA525E85BA600958242 /* networkin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K92J68CQML;
 				INFOPLIST_FILE = SkinCancer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +313,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K92J68CQML;
 				INFOPLIST_FILE = SkinCancer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
