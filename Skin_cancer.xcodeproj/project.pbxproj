@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E40E1F8F25E80FFE00958242 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E1F8E25E80FFE00958242 /* AppDelegate.swift */; };
-		E40E1F9125E80FFE00958242 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E1F9025E80FFE00958242 /* SceneDelegate.swift */; };
-		E40E1F9325E80FFE00958242 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E1F9225E80FFE00958242 /* ViewController.swift */; };
-		E40E1F9625E80FFE00958242 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9425E80FFE00958242 /* Main.storyboard */; };
-		E40E1F9825E80FFF00958242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9725E80FFF00958242 /* Assets.xcassets */; };
-		E40E1F9B25E80FFF00958242 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40E1F9925E80FFF00958242 /* LaunchScreen.storyboard */; };
-		E40E1FA525E85BA600958242 /* networkin.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E1FA425E85BA600958242 /* networkin.swift */; };
+		E499D69F260DBF1E00EA696A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E499D69E260DBF1E00EA696A /* AppDelegate.swift */; };
+		E499D6A1260DBF1E00EA696A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E499D6A0260DBF1E00EA696A /* SceneDelegate.swift */; };
+		E499D6A3260DBF1E00EA696A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E499D6A2260DBF1E00EA696A /* ViewController.swift */; };
+		E499D6A6260DBF1E00EA696A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E499D6A4260DBF1E00EA696A /* Main.storyboard */; };
+		E499D6A8260DBF1F00EA696A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E499D6A7260DBF1F00EA696A /* Assets.xcassets */; };
+		E499D6AB260DBF1F00EA696A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E499D6A9260DBF1F00EA696A /* LaunchScreen.storyboard */; };
+		E499D6B8260DC01300EA696A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E499D6B7260DC01300EA696A /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E40E1F8B25E80FFE00958242 /* SkinCancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkinCancer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E40E1F8E25E80FFE00958242 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E40E1F9025E80FFE00958242 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E40E1F9225E80FFE00958242 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E40E1F9525E80FFE00958242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E40E1F9725E80FFF00958242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E40E1F9A25E80FFF00958242 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E40E1F9C25E80FFF00958242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E40E1FA425E85BA600958242 /* networkin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = networkin.swift; sourceTree = "<group>"; };
+		E499D69B260DBF1E00EA696A /* Skin_cancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Skin_cancer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E499D69E260DBF1E00EA696A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E499D6A0260DBF1E00EA696A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E499D6A2260DBF1E00EA696A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E499D6A5260DBF1E00EA696A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E499D6A7260DBF1F00EA696A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E499D6AA260DBF1F00EA696A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E499D6AC260DBF1F00EA696A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E499D6B7260DC01300EA696A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E40E1F8825E80FFE00958242 /* Frameworks */ = {
+		E499D698260DBF1E00EA696A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,72 +39,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E40E1F8225E80FFE00958242 = {
+		E499D692260DBF1E00EA696A = {
 			isa = PBXGroup;
 			children = (
-				E40E1F8D25E80FFE00958242 /* SkinCancer */,
-				E40E1F8C25E80FFE00958242 /* Products */,
+				E499D69D260DBF1E00EA696A /* Skin_cancer */,
+				E499D69C260DBF1E00EA696A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E40E1F8C25E80FFE00958242 /* Products */ = {
+		E499D69C260DBF1E00EA696A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E40E1F8B25E80FFE00958242 /* SkinCancer.app */,
+				E499D69B260DBF1E00EA696A /* Skin_cancer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E40E1F8D25E80FFE00958242 /* SkinCancer */ = {
+		E499D69D260DBF1E00EA696A /* Skin_cancer */ = {
 			isa = PBXGroup;
 			children = (
-				E40E1F8E25E80FFE00958242 /* AppDelegate.swift */,
-				E40E1F9025E80FFE00958242 /* SceneDelegate.swift */,
-				E40E1F9225E80FFE00958242 /* ViewController.swift */,
-				E40E1F9425E80FFE00958242 /* Main.storyboard */,
-				E40E1F9725E80FFF00958242 /* Assets.xcassets */,
-				E40E1F9925E80FFF00958242 /* LaunchScreen.storyboard */,
-				E40E1F9C25E80FFF00958242 /* Info.plist */,
-				E40E1FA425E85BA600958242 /* networkin.swift */,
+				E499D69E260DBF1E00EA696A /* AppDelegate.swift */,
+				E499D6A0260DBF1E00EA696A /* SceneDelegate.swift */,
+				E499D6A2260DBF1E00EA696A /* ViewController.swift */,
+				E499D6B7260DC01300EA696A /* SecondViewController.swift */,
+				E499D6A4260DBF1E00EA696A /* Main.storyboard */,
+				E499D6A7260DBF1F00EA696A /* Assets.xcassets */,
+				E499D6A9260DBF1F00EA696A /* LaunchScreen.storyboard */,
+				E499D6AC260DBF1F00EA696A /* Info.plist */,
 			);
-			path = SkinCancer;
+			path = Skin_cancer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E40E1F8A25E80FFE00958242 /* SkinCancer */ = {
+		E499D69A260DBF1E00EA696A /* Skin_cancer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E40E1F9F25E80FFF00958242 /* Build configuration list for PBXNativeTarget "SkinCancer" */;
+			buildConfigurationList = E499D6AF260DBF1F00EA696A /* Build configuration list for PBXNativeTarget "Skin_cancer" */;
 			buildPhases = (
-				E40E1F8725E80FFE00958242 /* Sources */,
-				E40E1F8825E80FFE00958242 /* Frameworks */,
-				E40E1F8925E80FFE00958242 /* Resources */,
+				E499D697260DBF1E00EA696A /* Sources */,
+				E499D698260DBF1E00EA696A /* Frameworks */,
+				E499D699260DBF1E00EA696A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SkinCancer;
-			productName = SkinCancer;
-			productReference = E40E1F8B25E80FFE00958242 /* SkinCancer.app */;
+			name = Skin_cancer;
+			productName = Skin_cancer;
+			productReference = E499D69B260DBF1E00EA696A /* Skin_cancer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E40E1F8325E80FFE00958242 /* Project object */ = {
+		E499D693260DBF1E00EA696A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					E40E1F8A25E80FFE00958242 = {
+					E499D69A260DBF1E00EA696A = {
 						CreatedOnToolsVersion = 12.4;
 					};
 				};
 			};
-			buildConfigurationList = E40E1F8625E80FFE00958242 /* Build configuration list for PBXProject "SkinCancer" */;
+			buildConfigurationList = E499D696260DBF1E00EA696A /* Build configuration list for PBXProject "Skin_cancer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,56 +112,56 @@
 				en,
 				Base,
 			);
-			mainGroup = E40E1F8225E80FFE00958242;
-			productRefGroup = E40E1F8C25E80FFE00958242 /* Products */;
+			mainGroup = E499D692260DBF1E00EA696A;
+			productRefGroup = E499D69C260DBF1E00EA696A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E40E1F8A25E80FFE00958242 /* SkinCancer */,
+				E499D69A260DBF1E00EA696A /* Skin_cancer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E40E1F8925E80FFE00958242 /* Resources */ = {
+		E499D699260DBF1E00EA696A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E40E1F9B25E80FFF00958242 /* LaunchScreen.storyboard in Resources */,
-				E40E1F9825E80FFF00958242 /* Assets.xcassets in Resources */,
-				E40E1F9625E80FFE00958242 /* Main.storyboard in Resources */,
+				E499D6AB260DBF1F00EA696A /* LaunchScreen.storyboard in Resources */,
+				E499D6A8260DBF1F00EA696A /* Assets.xcassets in Resources */,
+				E499D6A6260DBF1E00EA696A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E40E1F8725E80FFE00958242 /* Sources */ = {
+		E499D697260DBF1E00EA696A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E40E1F9325E80FFE00958242 /* ViewController.swift in Sources */,
-				E40E1F8F25E80FFE00958242 /* AppDelegate.swift in Sources */,
-				E40E1F9125E80FFE00958242 /* SceneDelegate.swift in Sources */,
-				E40E1FA525E85BA600958242 /* networkin.swift in Sources */,
+				E499D6B8260DC01300EA696A /* SecondViewController.swift in Sources */,
+				E499D6A3260DBF1E00EA696A /* ViewController.swift in Sources */,
+				E499D69F260DBF1E00EA696A /* AppDelegate.swift in Sources */,
+				E499D6A1260DBF1E00EA696A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E40E1F9425E80FFE00958242 /* Main.storyboard */ = {
+		E499D6A4260DBF1E00EA696A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E40E1F9525E80FFE00958242 /* Base */,
+				E499D6A5260DBF1E00EA696A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E40E1F9925E80FFF00958242 /* LaunchScreen.storyboard */ = {
+		E499D6A9260DBF1F00EA696A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E40E1F9A25E80FFF00958242 /* Base */,
+				E499D6AA260DBF1F00EA696A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -169,7 +169,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E40E1F9D25E80FFF00958242 /* Debug */ = {
+		E499D6AD260DBF1F00EA696A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		E40E1F9E25E80FFF00958242 /* Release */ = {
+		E499D6AE260DBF1F00EA696A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,40 +285,38 @@
 			};
 			name = Release;
 		};
-		E40E1FA025E80FFF00958242 /* Debug */ = {
+		E499D6B0260DBF1F00EA696A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K92J68CQML;
-				INFOPLIST_FILE = SkinCancer/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				INFOPLIST_FILE = Skin_cancer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = vivek.SkinCancer;
+				PRODUCT_BUNDLE_IDENTIFIER = "vivek.Skin-cancer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E40E1FA125E80FFF00958242 /* Release */ = {
+		E499D6B1260DBF1F00EA696A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K92J68CQML;
-				INFOPLIST_FILE = SkinCancer/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				INFOPLIST_FILE = Skin_cancer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = vivek.SkinCancer;
+				PRODUCT_BUNDLE_IDENTIFIER = "vivek.Skin-cancer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -328,25 +326,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E40E1F8625E80FFE00958242 /* Build configuration list for PBXProject "SkinCancer" */ = {
+		E499D696260DBF1E00EA696A /* Build configuration list for PBXProject "Skin_cancer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E40E1F9D25E80FFF00958242 /* Debug */,
-				E40E1F9E25E80FFF00958242 /* Release */,
+				E499D6AD260DBF1F00EA696A /* Debug */,
+				E499D6AE260DBF1F00EA696A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E40E1F9F25E80FFF00958242 /* Build configuration list for PBXNativeTarget "SkinCancer" */ = {
+		E499D6AF260DBF1F00EA696A /* Build configuration list for PBXNativeTarget "Skin_cancer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E40E1FA025E80FFF00958242 /* Debug */,
-				E40E1FA125E80FFF00958242 /* Release */,
+				E499D6B0260DBF1F00EA696A /* Debug */,
+				E499D6B1260DBF1F00EA696A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E40E1F8325E80FFE00958242 /* Project object */;
+	rootObject = E499D693260DBF1E00EA696A /* Project object */;
 }

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SkinCancer
+//  Skin_cancer
 //
-//  Created by Vivek D on 25/02/2021.
+//  Created by Vivek D on 26/03/2021.
 //
 
 import UIKit
